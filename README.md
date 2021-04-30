@@ -9,7 +9,7 @@
 <p align="center">
 
 <img src="https://img.shields.io/badge/Made%20With-React.js-61DAFB?logo=react&style=for-the-badge">
-<img src="https://img.shields.io/badge/Made%20With-Nextjs-000000?logo=nextjs&style=for-the-badge">
+<img src="https://img.shields.io/badge/Made%20With-Nextjs-000000?logo=next-dot-js&style=for-the-badge">
 <img src="https://img.shields.io/badge/Made%20With-Yarn-2C8EBB?logo=yarn&style=for-the-badge">
 
 </p>
